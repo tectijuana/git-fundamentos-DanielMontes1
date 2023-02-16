@@ -10,4 +10,4 @@ int main()
     getch(); /* Pausa */
     return 0;
 }
-```C
+```
