@@ -1,5 +1,5 @@
 # :wave: The Basics of GitHub 
-![](Imagen/cooltext429808499423394.png)
+![](Imagen/cooltext429808487258645.png)
 ![](Imagen/cooltext429808499423394.png)
 ## 🤓 Course overview and learning outcomes 
 
