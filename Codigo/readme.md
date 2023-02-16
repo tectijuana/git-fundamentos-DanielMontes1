@@ -11,3 +11,4 @@ int main()
     return 0;
 }
 ```
+![](https://www.abrirllave.com/c/images/programa-hola-mundo.gif)
